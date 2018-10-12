@@ -1,4 +1,4 @@
-﻿Erstellen der Action
+Erstellen der Action
 ====================
 
 Steht das Model bereit, kann man daran gehen, die Programmlogik zum Verändern des

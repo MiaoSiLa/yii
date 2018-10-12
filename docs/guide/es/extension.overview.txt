@@ -1,4 +1,4 @@
-﻿Descripción
+Descripción
 ===========
 
 Extender Yii es una actividad común durante la etapa de desarrollo. Por ejemplo,

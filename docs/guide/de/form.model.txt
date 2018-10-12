@@ -1,4 +1,4 @@
-﻿Erstellen des Models
+Erstellen des Models
 ====================
 
 Bevor man sich an das HTML für ein Formular macht, sollte man sich überlegen,

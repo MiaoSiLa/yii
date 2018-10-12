@@ -1,4 +1,4 @@
-﻿Cài đặt
+Cài đặt
 =======
 
 Cài đặt Yii đơn giản chỉ gồm 2 bước:

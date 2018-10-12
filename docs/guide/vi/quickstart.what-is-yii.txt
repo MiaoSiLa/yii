@@ -1,4 +1,4 @@
-﻿Yii là gì
+Yii là gì
 ===========
 Yii là một PHP framework được xây dựng để phát triển các ứng dụng web
 quy mô lớn dựa trên nền tảng component (thành phần sử dụng lại). Yii cho

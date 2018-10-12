@@ -1,4 +1,4 @@
-﻿Erfassen tabellarischer Eingaben
+Erfassen tabellarischer Eingaben
 ================================
 
 Manchmal muss man eine ganze Reihe gleichartiger Eingabewerten erfasst werden. 

@@ -1,4 +1,4 @@
-﻿ActiveRecord
+ActiveRecord
 ============
 
 Man kann so gut wie alle Datenbankaufgaben mit Yii-DAO lösen. In 90% der Fälle

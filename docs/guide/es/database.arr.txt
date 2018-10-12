@@ -1,4 +1,4 @@
-﻿Registro Activo Relacional
+Registro Activo Relacional
 ==========================
 
 Ya hemos visto como usar Registro Activo (AR) para seleccionar datos desde

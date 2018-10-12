@@ -1,4 +1,4 @@
-﻿Relationale ActiveRecords
+Relationale ActiveRecords
 =========================
 
 Wie man mit ActiveRecord Tabellendaten ausliest, haben wir bereits gezeigt. In

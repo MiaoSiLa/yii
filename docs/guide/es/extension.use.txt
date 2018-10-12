@@ -1,4 +1,4 @@
-﻿Usando Extensiones
+Usando Extensiones
 ==================
 
 Usar una extensión frecuentemente involucra los siguientes tres pasos:

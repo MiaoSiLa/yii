@@ -1,4 +1,4 @@
-﻿Wat is Yii
+Wat is Yii
 ==========
 
 Yii is een high-performance component-gebaseerd PHP framework voor de

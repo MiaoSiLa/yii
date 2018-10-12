@@ -1,4 +1,4 @@
-﻿Arbeiten mit Datenbanken
+Arbeiten mit Datenbanken
 ========================
 
 Yii bietet leistungsstarke Features für die Arbeit mit Datenbanken. 

@@ -1,4 +1,4 @@
-﻿Trabajando con Bases de Datos
+Trabajando con Bases de Datos
 =============================
 
 Yii provee un poderoso soporte para la programación con bases de datos.

@@ -1,4 +1,4 @@
-﻿Registro Activo
+Registro Activo
 ===============
 
 Aunque la DAO de Yii puede manejar virtualmente cualquier tarea relacionada

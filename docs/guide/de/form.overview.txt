@@ -1,4 +1,4 @@
-﻿Arbeiten mit Formularen
+Arbeiten mit Formularen
 =======================
 
 Eine der wesentlichen Aufgaben von Webanwendungen besteht im Auswerten von

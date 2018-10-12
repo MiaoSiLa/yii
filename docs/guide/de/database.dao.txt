@@ -1,4 +1,4 @@
-﻿Data Access Objects (DAO)
+Data Access Objects (DAO)
 =========================
 
 Data Access Objects (Datenzugriffsobjekte, DAO) bieten eine einheitliche

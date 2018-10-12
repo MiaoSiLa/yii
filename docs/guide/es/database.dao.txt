@@ -1,4 +1,4 @@
-﻿Objetos de Acceso a Datos (DAO)
+Objetos de Acceso a Datos (DAO)
 ===============================
 
 Los Objetos de Acceso a Datos (DAO) proveen una API genérica para acceder

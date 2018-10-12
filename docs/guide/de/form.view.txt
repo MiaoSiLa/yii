@@ -1,4 +1,4 @@
-﻿Erstellen des Formulars
+Erstellen des Formulars
 =======================
 
 Der `login`-View ist schnell erstellt. Man beginnt mit dem `form` Tag,
